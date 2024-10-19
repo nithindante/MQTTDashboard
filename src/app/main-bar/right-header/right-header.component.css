@@ -1,0 +1,33 @@
+div {
+  /* height: 100%; */
+}
+.headerDiv {
+  display: flex;
+  /* 
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-bottom: 1px solid #e4e4e4; */
+}
+
+fieldset {
+  border: 0.5px solid;
+}
+/* 
+.headerLeftDiv {
+  display: flex;
+  padding: 2rem;
+  justify-content: end;
+}
+
+.headerLeftDiv > img {
+  height: 24px;
+  width: 24px;
+}
+
+.headerRightDiv {
+  border: 1px solid #dcdcdc;
+}
+
+fieldset {
+  border: 0.5px solid;
+} */

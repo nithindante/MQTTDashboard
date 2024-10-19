@@ -1,0 +1,15 @@
+.mainBody {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  height: 100vh;
+}
+
+.inter-class > * {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 90;
+  font-style: normal;
+}
+/* .mainBody > * {
+  height: 100%;
+} */
